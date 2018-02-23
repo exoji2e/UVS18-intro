@@ -17,6 +17,8 @@
 - Hemsidor
 - Datorprogram
 - Fordon (Bilar, Flygplan)
+- Sjukvård
+- Automation med robotar
 
 ---
 
